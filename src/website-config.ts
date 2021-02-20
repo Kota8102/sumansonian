@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
+  title: 'Sumansonian',
   description: 'The professional publishing platform',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
